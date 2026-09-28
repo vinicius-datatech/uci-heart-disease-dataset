@@ -637,7 +637,7 @@ https://archive.ics.uci.edu/dataset/45/heart+disease
 
 # 👨‍💻 Autor
 
-**Vinícius Araújo Moraes**
+**Vinícius Araújo Moraes da Silva**
 
 **Analista de Projetos e Dados | Data Science | Machine Learning | Power BI | SQL | Python**
 
