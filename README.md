@@ -1,4 +1,4 @@
-# 🫀 MVP Machine Learning — Doenças Cardíacas
+# ❤️‍🩹📊 MVP Machine Learning — Doenças Cardíacas
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)
 [![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange?logo=scikit-learn)](https://scikit-learn.org/)
